@@ -18,10 +18,10 @@ void tearDown(void)
 
 
 
-void test_module_generator_needs_to_be_implemented(void)
+void test_doDummyStuff_given_0(void)
 
 {
 
- UnityIgnore( ("Implement me!"), (_U_UINT)14);;
+ doDummyStuff();
 
 }
