@@ -1,3 +1,9 @@
 #include "Dummy.h"
 
-int doDummyStuff();
+int doDummyStuff(){
+  gila_gila();
+}
+
+int doSomeDummyStuff(){
+  return -1;
+}
